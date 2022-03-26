@@ -4,7 +4,7 @@
 
 1. Clone the repository
 2. Remove .git folder to untrack git
-3. Install depencies with `npm install`
+3. Install dependencies with `npm install`
 4. Start server with `npm start` and start programming
 
 ## How to create this starter app
